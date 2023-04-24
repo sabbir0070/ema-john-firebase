@@ -1,0 +1,63 @@
+.form-container{
+width: 600px;
+height: 600px;
+margin: auto;
+color: black;
+background-color: beige;
+border: 2px solid red;
+
+}
+h2{
+padding: 10px 30px;
+}
+.form-control {
+width: 600px;
+padding:0 30px ;
+
+}
+
+.form-control label{
+display: block;
+/* text-align: start; */
+padding: 3px;
+}
+.form-control input{
+font-size: 22px;
+width: 80%;
+height: 35px;
+padding: 8px 20px;
+background-color: white;
+color: black;
+margin: auto;
+}
+.form-submit{
+width: 600px;
+margin: auto;
+margin-top: 40px;
+padding-left: 32px;
+}
+.form-submit input{
+padding: 8px 20px;
+width:88%;
+height: 56px;
+font-size: 22px;
+background-color: white;
+color: black;
+background-color: yellow;
+
+}
+.text-p{
+width: 88%;
+text-align: center;
+
+
+}
+.text-blue{
+color: blue;
+}
+.text{
+color: red;
+}
+.text-success{
+color: green;
+}
